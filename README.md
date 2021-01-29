@@ -1,3 +1,6 @@
+![build](https://github.com/guye1296/dasvyvisor/workflows/build/badge.svg)
+
+
 # Dasvyvisor
 
 Everyone are talking about rust, and I've decided to know why. I've heard that rust is "safer", "cleaner" and "modern" so I want to figure out what all this buzz is about.
